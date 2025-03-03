@@ -34,23 +34,14 @@ Make sure you have the following installed:
 ## Screenshots
 
 <p align="center">
-  <img src="./assets/screenshots/home.png" width="45%" alt="Home Screen">
-  <img src="./assets/screenshots/recipe.jpg" width="45%" alt="Recipe Details">
+  <img src="./assets/screenshots/home.jpg" width="45%" alt="Home Screen">
+ <img src="./assets/screenshots/favourites.jpg" width="45%" alt="Favourites Screen">
+ <img src="./assets/screenshots/recipe.jpg" width="45%" alt="Recipe Details">
+     <img src="./assets/screenshots/recipe_1.jpg" width="45%" alt="Recipe Details">
+     <img src="./assets/screenshots/about.jpg" width="45%" alt="About">
 </p>
 
-### Home Screen
-![Home Screen](./assets/screenshots/home.jpg)
 
-### Favourites Screen
-![Favourites Screen](./assets/screenshots/favourites.jpg)
-
-### Recipe Details
-![Recipe Details](./assets/screenshots/recipe.jpg)
-
-![Recipe Details](./assets/screenshots/recipe_1.jpg)
-
-### About Screen
-![About Screen](./assets/screenshots/about.jpg)
 
 
 ## 🛠 Technologies Used
