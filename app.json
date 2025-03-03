@@ -24,6 +24,14 @@
     },
     "android": {
       "package": "com.vishnukothakapu27.recipefinderexpo"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ae51f490-5cc5-4a8d-b57a-9dfe9c7a653a"
+      }
     }
   }
 }
