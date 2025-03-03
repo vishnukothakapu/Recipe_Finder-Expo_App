@@ -32,6 +32,12 @@ Make sure you have the following installed:
 3. Download the APK and install it on your phone.
 
 ## Screenshots
+
+<p align="center">
+  <img src="./assets/screenshots/home.png" width="45%" alt="Home Screen">
+  <img src="./assets/screenshots/recipe.jpg" width="45%" alt="Recipe Details">
+</p>
+
 ### Home Screen
 ![Home Screen](./assets/screenshots/home.jpg)
 
