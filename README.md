@@ -31,6 +31,21 @@ Make sure you have the following installed:
    ```
 3. Download the APK and install it on your phone.
 
+## Screenshots
+### Home Screen
+![Home Screen](./assets/screenshots/home.jpg)
+
+### Favourites Screen
+![Favourites Screen](./assets/screenshots/favourites.jpg)
+
+### Recipe Details
+![Recipe Details](./assets/screenshots/recipe.jpg)
+
+![Recipe Details](./assets/screenshots/recipe_1.jpg)
+
+### About Screen
+![About Screen](./assets/screenshots/about.jpg)
+
 
 ## 🛠 Technologies Used
 - **React Native**
